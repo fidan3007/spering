@@ -1,0 +1,119 @@
+.slid1{
+    background-color: rgb(88, 184, 179);
+    height: 800px;
+}
+.slid{
+    background-color: rgb(30, 46, 52);
+    height: 800px;
+}
+body{
+    color: white;
+    
+
+}
+.about{
+    border: none;
+    background-color: rgb(236, 93, 96);
+    color: white;
+    height: 30px;
+    width: 130px;
+    margin-top: 30px;
+}
+.get{
+    border: none;
+    height: 30px;
+    width: 130px;
+    margin-top: 30px;
+}
+.you{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.color{
+    background-color: white !important;
+}
+.class{
+    margin-top: 90px;
+}
+.read{
+    margin-top: 80px;
+}
+.hire{
+    border: none;
+    background-color: rgb(30, 46, 52);
+    color: white;
+    width: 165px;
+    height: 40px;
+    border: 1px solid transparent;
+}
+.more{
+    border: none;
+    background-color: rgb(236, 93, 96);
+    color: white;
+    width: 165px;
+    height: 40px;
+    border: 1px solid transparent;
+}
+.more:hover{
+    background-color: white;
+    color: rgb(236, 93, 96);
+    border-color: rgb(236, 93, 96);
+}
+.hire:hover{
+    background: transparent;
+    color: rgb(30, 46, 52);
+    border-color: rgb(30, 46, 52);
+}
+.category{
+    text-align: center;
+    
+}
+.category{
+    background-color: #1cbbb4;
+    height: 500px;
+}
+.companybtn{
+    border: none;
+    background-color: rgb(236, 93, 96);
+    color: white;
+    height: 50px;
+    width: 180px;
+    margin-top: 30px;
+}  
+.done{
+    background-color: white !important;
+}
+.has{
+    background-color: white !important;
+}
+
+.spering{
+    background-color: rgb(30, 46, 52);
+
+}
+.sub{
+    color: white;
+    background-color: rgb(236, 93, 96);
+    border-color: white;
+    height: 50px;
+    width: 180px;
+    margin-top: 30px;
+}
+.email{
+    width: 300px;
+    height: 50px;
+}
+.number{
+    background-color: rgb(30, 46, 52);
+}
+.footer{
+    background-color: rgb(30, 46, 52);
+}
+.million{
+    margin: 30px;
+}
+.freelaner{
+    padding: 80px;
+}
+.contact{
+   margin-left: 500px;}
